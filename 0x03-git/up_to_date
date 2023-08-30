@@ -1,1 +1,5 @@
-touch
+1: i used touch up_to_date to create an empty file
+2: the  file was named up_to_date
+3: i use git add up_to_date to stage the newly file for commit
+4:i  git commit to make sure it reaches github
+ i git push in order to push it t the github
